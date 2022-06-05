@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uljetta
 - 👀 I’m interested in manual software testing.
-- 🌱 I’m currently learning about Git Bash and in the future, I will be a focus on Postman.
+- 🌱 I’m currently learning about Git Bash and in the future, I will focus on Postman.
 - 💞️ I’m looking to collaborate with other testers.
 - 📫 How to reach me https://www.linkedin.com/in/urszulapalys/ and through an e-mail: testowanie337@gmail.com
 
